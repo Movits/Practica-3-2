@@ -1,4 +1,4 @@
-class Persona {
+export class Persona {
     #nombre = "def nombre";
     #edad = "def edad";
 

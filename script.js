@@ -1,4 +1,5 @@
-
+import { Perro } from "./perro.js";
+import { Persona } from "./persona.js";
 
 const a = new Persona();
 const b = new Persona();

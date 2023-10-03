@@ -1,4 +1,4 @@
-class Perro {
+export class Perro {
     #nombre = "def nombre";
     #color = "def color";
 
